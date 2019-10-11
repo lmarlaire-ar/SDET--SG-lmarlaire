@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26160" started-at="2019-10-11T16:31:21 ART" finished-at="2019-10-11T16:31:47 ART">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26160" started-at="2019-10-11T16:31:21 ART" finished-at="2019-10-11T16:31:47 ART">
+      <class name="com.test.Aliexpress_Test">
+        <test-method status="PASS" signature="launchPage()[pri:0, instance:com.test.Aliexpress_Test@67b92f0a]" name="launchPage" duration-ms="16260" started-at="2019-10-11T16:31:21 ART" finished-at="2019-10-11T16:31:37 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchPage -->
+        <test-method status="PASS" signature="lookForItem()[pri:1, instance:com.test.Aliexpress_Test@67b92f0a]" name="lookForItem" duration-ms="4343" started-at="2019-10-11T16:31:37 ART" finished-at="2019-10-11T16:31:42 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lookForItem -->
+        <test-method status="PASS" signature="goToPageN()[pri:2, instance:com.test.Aliexpress_Test@67b92f0a]" name="goToPageN" duration-ms="2122" started-at="2019-10-11T16:31:42 ART" finished-at="2019-10-11T16:31:44 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToPageN -->
+        <test-method status="PASS" signature="lookForElementM()[pri:3, instance:com.test.Aliexpress_Test@67b92f0a]" name="lookForElementM" duration-ms="2704" started-at="2019-10-11T16:31:44 ART" finished-at="2019-10-11T16:31:47 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lookForElementM -->
+        <test-method status="PASS" signature="verifyAvailability()[pri:4, instance:com.test.Aliexpress_Test@67b92f0a]" name="verifyAvailability" duration-ms="688" started-at="2019-10-11T16:31:47 ART" finished-at="2019-10-11T16:31:47 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAvailability -->
+      </class> <!-- com.test.Aliexpress_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
